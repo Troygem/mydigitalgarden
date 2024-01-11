@@ -25,13 +25,5 @@
 	* dg-publish: true
 	* dg-home: true
 
-## Anyway, Enjoy it!  123
-
-*的说法是*
-发士大夫色**发士大夫**
-
-==大师傅似的==
-
-$x=0$
-$$x=0$$
+## Anyway, Enjoy it!  
 
