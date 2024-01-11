@@ -2,7 +2,6 @@
 {"title":"Python","dg-publish":true,"permalink":"/python/python/","dgPassFrontmatter":true}
 ---
 
-
 **变量**：相当于只能存放一个东西的盒子（注意命名规范）
 
 **相等判断**：\==（值是否相等），is（类型和值是否都相等）
