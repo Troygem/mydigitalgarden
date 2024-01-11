@@ -2,7 +2,7 @@
 {"title":"Home","dg-publish":true,"dg-home":"true","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-![未闻花名.jpg](https://s1.vika.cn/space/2024/01/11/379387aeae894854bef234193053085c)
+![未闻花名.jpg](https://images4.alphacoders.com/730/730780.jpg)
 # 欢迎来到我的数字花园😀
 
 ## 什么是数字花园？
@@ -24,5 +24,5 @@
 	* dg-publish: true
 	* dg-home: true
 
-## Anyway, Enjoy it!  
+# Enjoy it🙂
 
