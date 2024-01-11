@@ -25,4 +25,4 @@
 	* dg-publish: true
 	* dg-home: true
 
-## Enjoy it! 
+## Anyway, Enjoy it! 
