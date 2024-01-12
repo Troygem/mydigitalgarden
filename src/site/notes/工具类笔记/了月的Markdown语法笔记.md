@@ -3,7 +3,7 @@
 ---
 
 # 1.Markdown的简介
-Markdown是一种轻量级的标记语言 理念 Markdown致力于让创作或者阅读文档变得更加容易
+Markdown是一种轻量级的标记语言，Markdown致力于让创作或者阅读文档变得更加容易
 hyper text markup language(html)超文本标记语言
 
 # 2.标题
