@@ -1,5 +1,5 @@
 ---
-{"title":"Home","dg-publish":true,"dg-home":"true","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"Home","dg-publish":true,"dg-home":"true","cssclasses":["fullwidth,noyaml,noscroll,myhome"],"banner":"\"https://api.dujin.org/bing/1920.php\"","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![未闻花名.jpg](https://images4.alphacoders.com/730/730780.jpg)
