@@ -24,5 +24,5 @@
 	* dg-publish: true
 	* dg-home: true
 
-# Enjoy it🙂
+## Just enjoy it🙂
 
