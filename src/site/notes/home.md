@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/home/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
-
 
 ![未闻花名.jpg](https://images4.alphacoders.com/730/730780.jpg)
 # 欢迎来到我的数字花园😀
