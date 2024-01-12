@@ -1,5 +1,5 @@
 ---
-{"title":"OB使用","dg-publish":true,"permalink":"/0-tips/ob/","dgPassFrontmatter":true}
+{"title":"OB使用","dg-publish":true,"time":"2024/01/12","permalink":"/0-tips/ob/","dgPassFrontmatter":true}
 ---
 
 # 1.OB笔记导出pdf文件
