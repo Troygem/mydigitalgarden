@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"time":"2024/01/12","permalink":"//favorite-words/","dgPassFrontmatter":true}
+{"dg-publish":true,"time":"2024/01/12","title":"喜欢的话语","permalink":"//favorite-words/","dgPassFrontmatter":true}
 ---
 
 **摘自看过的书，看过的剧，看过的评论等等**
