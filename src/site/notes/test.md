@@ -2,6 +2,4 @@
 {"dg-publish":true,"permalink":"/test/","dgPassFrontmatter":true}
 ---
 
-
-fsd 
-# sdfgsd  👇 ↓
+# 这是一个测试文件
