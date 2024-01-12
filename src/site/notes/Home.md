@@ -24,5 +24,9 @@
 	* dg-publish: true
 	* dg-home: true
 
+
+# 温馨提示
+本库的笔记图片大多不能正常显示，原因是使用的是本地图床，不支持Web端直接观看。
+
 ## Just enjoy it🙂
 
