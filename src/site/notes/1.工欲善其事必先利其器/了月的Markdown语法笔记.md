@@ -184,7 +184,7 @@ www.baidu.com
 **效果👇**：
 ![girl.jpg](https://s1.vika.cn/space/2022/12/13/4bbc61059801493588ec5dab2b683ef4)
 
-![star.jpg](http://img.netbian.com/file/2023/1211/235547PNQcp.jpg)
+![star.jpg](https://images.hdqwalls.com/wallpapers/girl-playing-violin-in-space-4k-ss.jpg)
 
 # 12.表格
 **说明**：代码麻烦，建议直接快捷键生成（**Typora**里的是`Ctrl + T`）
