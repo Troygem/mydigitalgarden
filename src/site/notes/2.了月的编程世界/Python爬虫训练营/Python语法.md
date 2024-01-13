@@ -1,5 +1,5 @@
 ---
-{"title":"Python","dg-publish":true,"permalink":"/2/python/python/","dgPassFrontmatter":true}
+{"title":"Python","dg-publish":true,"permalink":"/2.了月的编程世界/Python爬虫训练营/Python语法/","dgPassFrontmatter":true}
 ---
 
 **变量**：相当于只能存放一个东西的盒子（注意命名规范）
