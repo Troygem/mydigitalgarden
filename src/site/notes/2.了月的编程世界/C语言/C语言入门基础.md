@@ -226,7 +226,9 @@ fprintf(stdout,"stdout = %s\n",str);
 fprintf(stderr,"stderr = %s\n",str);
 ```
 <img src="https://s1.vika.cn/space/2024/01/12/8057f33eae194dc09d78889186acde53" alt="image.png" style="zoom:80%;" />
+
 **相同点**：二者都会打印到在标准输出中（即控制台）
+
 **不同点**：当用标准输出重定向时，只会打印标准错误输出，标准输出会重定向到自定义文件里，如下例子👇
 <img src="https://s1.vika.cn/space/2024/01/12/59963a12ca834180851d68758f960fad" alt="image.png" style="zoom: 80%;" />
 
