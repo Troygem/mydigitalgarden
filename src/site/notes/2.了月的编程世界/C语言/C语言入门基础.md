@@ -1,5 +1,5 @@
 ---
-{"title":"C语言入门基础","dg-publish":true,"time":"2024/01/12","permalink":"/2/c/c/","dgPassFrontmatter":true}
+{"title":"C语言入门基础","dg-publish":true,"time":"2024/01/12","permalink":"/2.了月的编程世界/C语言/C语言入门基础/","dgPassFrontmatter":true}
 ---
 
 # 学习C语言的理由
