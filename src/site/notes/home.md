@@ -26,7 +26,11 @@
 
 
 # 温馨提示
-本库的笔记图片大多不能正常显示，原因是使用的是本地图床，不支持Web端直接观看。
+- 本库的笔记图片大多不能正常显示，原因是使用的是本地图床，不支持Web端直接观看。
+
+- 如果你的设备也安装了开源字体**LXGW WenKai GB / 霞鹜文楷 GB**，那么你将会看到很不一样质感的笔记。👇
+
+  <img src="https://i0.hdslb.com/bfs/article/bb6a436129d2eced8c1bd43973e60c97345bb777.jpg@1320w_740h.avif" style="zoom: 50%;" />
 
 ## Just enjoy it🙂
 
