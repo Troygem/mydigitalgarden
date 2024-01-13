@@ -1,5 +1,5 @@
 ---
-{"title":"了月的markdown语法笔记","dg-publish":true,"time":"2024/01/12","permalink":"/1/markdown/","dgPassFrontmatter":true}
+{"title":"了月的markdown语法笔记","dg-publish":true,"time":"2024/01/12","permalink":"/1.工欲善其事必先利其器/了月的Markdown语法笔记/","dgPassFrontmatter":true}
 ---
 
 # 1.Markdown的简介
