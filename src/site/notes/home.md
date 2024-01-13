@@ -30,7 +30,7 @@
 
 - 如果你的设备也安装了开源字体**LXGW WenKai GB / 霞鹜文楷 GB**，那么你将会看到很不一样质感的笔记。👇
 
-  <img src="https://tonyxu.io/_astro/lxgw-wenkai.l9Nb9PYr_y2HeS.avif" style="zoom: 50%;" />
+  <img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F1125%2Fd5cfbca6j00rlwpul001ad200u000gfg00zk00jg.jpg&thumbnail=660x2147483647&quality=80&type=jpg" style="zoom:80%;" />
 
 ## Just enjoy it🙂
 
