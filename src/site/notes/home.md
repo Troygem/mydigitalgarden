@@ -4,9 +4,18 @@
 
 <div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/RandomMusic?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&theme-color=%23888888FF&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
+
+<div style=" width: 100%; height:220;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/CountdownCards?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&input-text=%E4%BB%8A%E5%B9%B4%E7%BB%93%E6%9D%9F&theme-color=%23CA5F5FFF&date-picker=1735660740000" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+
+<div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/PageTurnClock?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&theme-color=%23ccc&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+<div style=" width: 100%;  height:40;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/miniTianqi?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&select-theme=ta&theme=%E7%BB%8F%E5%85%B8&input-text=&theme-color=%23747474" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
 ![未闻花名.jpg](https://images4.alphacoders.com/730/730780.jpg)
 
-<div style=" width: 100%; height:220;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/ColorfulClock?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&font-color=%234f46e5&ring-color-1=%23e13e78&ring-color-2=%23e79742&ring-color-3=%234483ec&ring-color-4=%238f30eb&lang=en" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
+
+
 
 # 欢迎来到我的数字花园😀
 
