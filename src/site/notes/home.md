@@ -4,8 +4,6 @@
 
 <div style=" width: 100%; height:180;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/RandomMusic?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&theme-color=%23888888FF&layout-style=Default" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
 
-<div style=" width: 100%; height:50;overflow: hidden; "><iframe src="https://widget.pkmer.cn/free/YearTimeline?user=972b94d9-1c6c-418e-8d74-ebdd636b22c2&" allow="fullscreen" style=" height: 100%; width: 100%;"></iframe></div>
-
 ![未闻花名.jpg](https://images4.alphacoders.com/730/730780.jpg)
 # 欢迎来到我的数字花园😀
 
